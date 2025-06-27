@@ -1,5 +1,7 @@
 # LLVN Project (Happy Puppy Simple Laravel-based Product Management Web System)
 
+email: admin@example.com	password: password
+
 ## Features
 - Authentication (Login/Logout/Session) /
 - Product CRUD (Create, Read, Update, Delete) /products

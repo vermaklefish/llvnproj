@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\PHPWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\welcome.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\welcome.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\layouts\\app.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\layouts\\app.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\layouts\\guest.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\layouts\\guest.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\products\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\products\\index.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\models\\product.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\models\\product.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\routes\\console.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:routes\\console.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\http\\controllers\\productcontroller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\http\\controllers\\productcontroller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\products\\create.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\products\\create.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\products\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\products\\edit.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\routes\\web.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:routes\\web.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\dashboard.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\dashboard.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\models\\singer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\models\\singer.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\models\\song.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\models\\song.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\models\\user.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\models\\user.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\http\\controllers\\auth\\authenticatedsessioncontroller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\http\\controllers\\auth\\authenticatedsessioncontroller.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\layouts\\navigation.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\layouts\\navigation.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\routes\\auth.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:routes\\auth.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\components\\application-logo.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\components\\application-logo.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\app\\providers\\appserviceprovider.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:app\\providers\\appserviceprovider.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|c:\\users\\user\\source\\repos\\phpweb\\resources\\views\\auth\\login.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}",
+      "RelativeMoniker": "D:0:0:{C18FFF54-1E91-4C97-8526-11E2125C9B5D}|PHPWeb.phpproj|solutionrelative:resources\\views\\auth\\login.blade.php||{3D2461EC-8045-4AA9-ABFB-812292AE795D}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "guest.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\guest.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\guest.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\guest.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\guest.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-27T01:38:56.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\app.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\app.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\app.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\app.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-27T01:38:50.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Product.php",
+              "RelativeDocumentMoniker": "app\\Models\\Product.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Product.php",
+              "RelativeToolTip": "app\\Models\\Product.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T20:09:42.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "edit.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\edit.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\products\\edit.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\edit.blade.php",
+              "RelativeToolTip": "resources\\views\\products\\edit.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T20:02:44.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "create.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\create.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\products\\create.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\create.blade.php",
+              "RelativeToolTip": "resources\\views\\products\\create.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T20:02:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\index.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\products\\index.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\products\\index.blade.php",
+              "RelativeToolTip": "resources\\views\\products\\index.blade.php",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAqwG0AAAAPAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T16:57:43.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Http\\Controllers\\ProductController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\ProductController.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Http\\Controllers\\ProductController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\ProductController.php",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAcwE0AAAALAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T16:45:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticatedSessionController.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+              "RelativeDocumentMoniker": "app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+              "RelativeToolTip": "app\\Http\\Controllers\\Auth\\AuthenticatedSessionController.php",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAqAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T12:01:45.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Song.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Song.php",
+              "RelativeDocumentMoniker": "app\\Models\\Song.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Song.php",
+              "RelativeToolTip": "app\\Models\\Song.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T10:22:16.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Singer.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Singer.php",
+              "RelativeDocumentMoniker": "app\\Models\\Singer.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\Singer.php",
+              "RelativeToolTip": "app\\Models\\Singer.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T10:22:14.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "application-logo.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\components\\application-logo.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\components\\application-logo.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\components\\application-logo.blade.php",
+              "RelativeToolTip": "resources\\views\\components\\application-logo.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T07:05:56.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "navigation.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\navigation.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\layouts\\navigation.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\layouts\\navigation.blade.php",
+              "RelativeToolTip": "resources\\views\\layouts\\navigation.blade.php",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAnAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T07:03:43.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dashboard.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\dashboard.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\dashboard.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\dashboard.blade.php",
+              "RelativeToolTip": "resources\\views\\dashboard.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T05:21:20.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppServiceProvider.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Providers\\AppServiceProvider.php",
+              "RelativeDocumentMoniker": "app\\Providers\\AppServiceProvider.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Providers\\AppServiceProvider.php",
+              "RelativeToolTip": "app\\Providers\\AppServiceProvider.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T05:14:02.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\User.php",
+              "RelativeDocumentMoniker": "app\\Models\\User.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\app\\Models\\User.php",
+              "RelativeToolTip": "app\\Models\\User.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T03:54:29.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "auth.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\auth.php",
+              "RelativeDocumentMoniker": "routes\\auth.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\auth.php",
+              "RelativeToolTip": "routes\\auth.php",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADkAAAAZAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-26T03:21:36.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\auth\\login.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\auth\\login.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\auth\\login.blade.php",
+              "RelativeToolTip": "resources\\views\\auth\\login.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABBAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-25T18:43:25.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "welcome.blade.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\welcome.blade.php",
+              "RelativeDocumentMoniker": "resources\\views\\welcome.blade.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\resources\\views\\welcome.blade.php",
+              "RelativeToolTip": "resources\\views\\welcome.blade.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABJAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-25T17:41:05.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "web.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\web.php",
+              "RelativeDocumentMoniker": "routes\\web.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\web.php",
+              "RelativeToolTip": "routes\\web.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA4AAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-25T17:41:01.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "console.php",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\console.php",
+              "RelativeDocumentMoniker": "routes\\console.php",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\PHPWeb\\routes\\console.php",
+              "RelativeToolTip": "routes\\console.php",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "89320d42-7831-4f47-839a-c227d3a60919.000001|",
+              "WhenOpened": "2025-06-25T17:40:59.072Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

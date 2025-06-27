@@ -1,0 +1,31 @@
+# LLVN Project (Happy Puppy Simple Laravel-based Product Management Web System)
+
+## Features
+- Authentication (Login/Logout/Session) /
+- Product CRUD (Create, Read, Update, Delete) /products
+- Dashboard View (Read Only)for Songs and Singers /dashboard
+- Category-based filtering
+- Search wildcard filtering
+- Tailwind CSS styled frontend together with Vite.js
+- SQLite support
+
+## Requirements
+- PHP 8.2+
+- Laravel 12+
+- Composer 2.8+
+- Node.js v22+ 
+- NPM v6+
+
+##Structure Overview
+- routes/web.php : Web routes (with auth middleware)
+- app/Models/Product.php: Eloquent model
+- app/Models/Singer.php: Eloquent model
+- app/Models/Song.php: Eloquent model
+- database/Migrations: Contains schema definitions for eloquent models.
+- app/Http/Controllers/ProductController.php: Handles CRUD logic
+- app/Http/Controllers/Auth/: Built-in Laravel auth controllers
+- resources/views/: Blade views(dashboard, products, login)
+- routes/web.php: Main web routes (protected by `auth` middleware)
+- routes/auth.php: Authentication routes (login and logout)
+- public/: Public assets and entry point
+- .env: Environment configuration (DB, app name, etc.)
